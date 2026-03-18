@@ -1,4 +1,26 @@
-# Dmitriy Kerget Portfolio Website
+# Kerget Cloud Engineering Portfolio
+
+## Live Site
+
+Live site: https://kerget.com
+
+## Description
+
+Professional cloud engineering portfolio demonstrating Azure infrastructure,
+Terraform-based Infrastructure as Code (IaC), hybrid networking, and secure
+cloud deployment practices.
+
+## Architecture
+
+- Hosting: Azure Static Web Apps (SWA - Static Web Apps)
+- CI/CD: GitHub Actions (Continuous Integration / Continuous Deployment)
+- DNS: GoDaddy
+- Domain: kerget.com
+
+## Purpose
+
+This portfolio demonstrates real-world Azure deployment, automation,
+and cloud engineering practices.
 
 Single-page personal portfolio site for Dmitriy Kerget, focused on Azure cloud engineering, infrastructure, and networking work.
 
